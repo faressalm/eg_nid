@@ -1,4 +1,5 @@
 # Eg NID Decoder
+> Idea from https://www.npmjs.com/package/eg-nid
 ## About 
 Extract basic info from Egyptian NIDs "الرقم القومي" 
   - City of birth  
